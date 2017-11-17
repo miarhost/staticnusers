@@ -1,8 +1,9 @@
 # README
 
 This is static pages with users info content app 
-
 personal Rails sample  app for tutorial purposes
+---See in browser---
+https://staticnusers.herokuapp.com/
 
 * Ruby version 2.3.4
 * Rails version 5.1.4
