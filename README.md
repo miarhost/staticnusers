@@ -2,9 +2,10 @@
 
 This is static pages with users info content app 
 
-tutorial sample 
+personal Rails sample  app for tutorial purposes
 
 * Ruby version 2.3.4
+* Rails version 5.1.4
 
 * System dependencies
 
@@ -12,6 +13,9 @@ tutorial sample
 
 * Database creation 
 
+Tested with Minitest
+(Static part successfully)
+(Users' part in progress)
 
 * Database initialization
 $ rails db:migrate
